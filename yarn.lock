@@ -4684,6 +4684,13 @@ utils-merge@1.0.1:
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
   integrity sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
 
+vite-plugin-pug@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/vite-plugin-pug/-/vite-plugin-pug-0.3.1.tgz#fea1c153426d1088f4a92d0595ccab4aa25b3091"
+  integrity sha512-LOyb1o1eaUjaSrIzZiK95n632CDu4lPJ3U/wKy03mp9OcLAFS0p5R5it7z/FcsqXUiqRtl7QtCO9HnhylC4waA==
+  dependencies:
+    pug "^3.0.2"
+
 vite@^2.8.5:
   version "2.8.6"
   resolved "https://registry.yarnpkg.com/vite/-/vite-2.8.6.tgz#32d50e23c99ca31b26b8ccdc78b1d72d4d7323d3"
