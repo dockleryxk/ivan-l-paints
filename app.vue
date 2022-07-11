@@ -1,3 +1,4 @@
-template
-  div
-    NuxtWelcome
+<template lang="pug">
+div
+  NuxtWelcome
+</template>
